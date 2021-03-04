@@ -13,7 +13,9 @@
 * JavaScript
 * Git
 
-### **Work experience**
+### **Work experience**  
+**The Rolling Scopes**  
+
 **October 2019-January 2020, Educational Center of HTP (IT-Academy) Course**  
 Website development with HTML, CSS and JAVASCRIPT  
 
