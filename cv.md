@@ -11,6 +11,7 @@
 * CSS
 * Sass
 * JavaScript
+* Git
 
 ### **Work experience**
 **October 2019-January 2020, Educational Center of HTP (IT-Academy) Course**  
